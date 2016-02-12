@@ -1,4 +1,4 @@
-package net.spacegeek224.myjava;
+package net.spacegeek224.myjava.animals;
 
 
 /**
