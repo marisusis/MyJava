@@ -1,6 +1,6 @@
 package net.spacegeek224.myjava.animals;
 
-import net.spacegeek224.myjava.Animal;
+import net.spacegeek224.myjava;
 
 
 /**
